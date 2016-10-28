@@ -1,0 +1,40 @@
+#+OPTIONS: toc:nil
+#+TITLE: Testing internal links in github's org preview (via cheating)
+- see [[https://gist.githubusercontent.com/deprecated/d8564133e07e546789c0/raw/e068761156ce95b00ca6f8ec72d49e8508496220/internal-links-test.org]]
+
+- [[#testing][1. Testing]]
+  - [[#internal-links][1.1. Internal links]]
+  - [[#to-headers][1.2. To headers]]
+
+* Testing
+
+|  x |  y |
+|  1 |  2 |
+|  3 |  4 |
+|  5 |  6 |
+|  7 |  8 |
+|  9 |  0 |
+| 11 | 12 |
+| 13 | 14 |
+
+** Internal links
+
+|  x |  y |
+|  1 |  2 |
+|  3 |  4 |
+|  5 |  6 |
+|  7 |  8 |
+|  9 |  0 |
+| 11 | 12 |
+| 13 | 14 |
+
+** To headers
+
+|  x |  y |
+|  1 |  2 |
+|  3 |  4 |
+|  5 |  6 |
+|  7 |  8 |
+|  9 |  0 |
+| 11 | 12 |
+| 13 | 14 |
