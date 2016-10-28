@@ -1,0 +1,20 @@
+#+OPTIONS: toc:nil
+
+- [[#heading-1][1. Testing]]
+  - [[#heading-1.1][1.1. Internal links]]
+  - [[#heading-1.2][1.2. To headers]]
+
+* Testing
+  :PROPERTIES:
+  :CUSTOM_ID: heading-1
+  :END:
+
+** Internal links
+   :PROPERTIES:
+   :CUSTOM_ID: heading-1.1
+   :END:
+
+** To headers
+   :PROPERTIES:
+   :CUSTOM_ID: heading-1.2
+   :END:
