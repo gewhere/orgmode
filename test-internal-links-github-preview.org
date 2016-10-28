@@ -1,4 +1,5 @@
 #+OPTIONS: toc:nil
+#+TITLE: Testing internal links in github's org preview
 
 - [[#heading-1][1. Testing]]
   - [[#heading-1.1][1.1. Internal links]]
